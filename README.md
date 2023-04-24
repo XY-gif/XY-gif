@@ -10,8 +10,8 @@
 <!-- XY-gif's Most Used Languages -->
 
 <p>
-	<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=XY-gif&theme=default&hide_title=false&layout=default&hide=css%2Chtml%2Cless">
-	<img alt="XY-gif's Most Used Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=XY-gif&theme=default&hide_title=false&layout=default&hide=css%2Chtml%2Cless" />
+	<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=XY-gif&theme=default&hide_title=false&layout=compact&hide=css%2Chtml%2Cless">
+	<img alt="XY-gif's Most Used Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=XY-gif&theme=default&hide_title=false&layout=compact&hide=css%2Chtml%2Cless" />
 </a>
 </p>
 
